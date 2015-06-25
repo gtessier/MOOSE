@@ -1,0 +1,16 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_ps_quote_content</custom-field>
+        <custom-field action="translate">_ps_quote_source</custom-field>        
+    </custom-fields>
+    <admin-texts>
+        <key name="prodigystudio_options">
+            <key name="ps_additional_info[default]" />
+            <key name="ps_custom_404_title" />
+			<key name="ps_custom_search_title" />
+			<key name="ps_custom_blog_title" />
+			<key name="ps_social_label" />
+			<key name="ps_footer_copyright" />						
+        </key>       
+    </admin-texts>    
+</wpml-config>

@@ -1,0 +1,34 @@
+/* --------------------------------------------------------------------------
+ * Prodigystudio  : Maleo - Multipurpose HTML Template
+ *  
+ * file           : Color Theme
+ * Desc           : Maleo Framework - Theme Switcher
+ * Version        : 1.1
+ * Date           : 08/12/2014
+ * Author         : Prodigystudio - team
+ * Author URI     : http://prodigystudio.net
+ * Email          : Hello@prodigystudio.net
+ *
+ * Prodigy Studio. Copyright 2014. All Rights Reserved.
+ * -------------------------------------------------------------------------- */
+.rowfull .left-bg, header .logo-content, #service {
+  background: #f5f6f8;
+}
+
+.mo-menu a.active,
+.mo-menu a.current,
+.mo-menu a.current:hover,
+.mo-menu a.current:focus,
+.mo-menu a.current:active, .header-info1 li.phone-info,
+.header-info1 li.toggle-search {
+  color: #f5f6f8;
+}
+
+.tp-bannertimer {
+  background: rgba(245, 246, 248, 0.2);
+}
+
+.header-info1 li.phone-info,
+.header-info1 li.toggle-search {
+  border: 2px solid #f5f6f8;
+}

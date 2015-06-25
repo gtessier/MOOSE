@@ -1,0 +1,12 @@
+/* ================================================================================	
+Theme Name: Simple Theme Child
+Theme URI: http://themeforest.net/user/whoathemes/
+Description: Designed by <a href="http://themeforest.net/user/whoathemes/">Whoathemes</a>.
+Version: 1.0
+Author: <a href="http://themeforest.net/user/whoathemes">WhoaThemes</a>
+Author URI: http://themeforest.net/user/whoathemes/
+Template: simple
+================================================================================ */
+
+/*CUSTOM STYLES*/
+@import url("../simple/style.css");

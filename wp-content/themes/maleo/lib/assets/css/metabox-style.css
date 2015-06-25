@@ -1,0 +1,98 @@
+.clear {
+	clear: both;
+}
+.float_left {
+	float: left;
+	display: block;
+}
+#prodigystudio-meta-settings .hidden {
+	visibility: hidden;
+	display: none;
+}
+#prodigystudio-meta-settings .inside {
+	padding: 0;
+	margin: 0;
+}
+#prodigystudio-meta-settings .form-table {
+	margin: 0;
+	display: block;
+}
+#prodigystudio-meta-settings .form-table li {
+	display: block;
+	padding: 20px 10px;
+	clear: both;
+	margin-bottom: 0;
+	border-bottom: 1px solid #e3e3e3;
+}
+#prodigystudio-meta-settings .form-table li:last-child {
+	margin-bottom: 0;
+	border: 0;
+}
+#prodigystudio-meta-settings .form-table li label {
+	display: block;
+	float: left;
+	width: 170px;
+}
+#prodigystudio-meta-settings .form-table input[type='text'], #prodigystudio-meta-settings .form-table select {
+	color: #333333;
+	line-height: 1em;
+	width: 30%;
+	border: 1px solid #DFDFDF;
+}
+.form-table select {
+	height: 28px !important;
+}
+#uploadedImage {
+	float: left;
+	margin-right: 10px;
+}
+#image-wrapper {
+	display: block;
+	width: 350px;
+	margin-left: 172px;
+	position: relative;
+	margin-top: 20px;
+}
+.custom_preview_image {
+	display: block;
+	clear: both;
+	padding: 5px;
+	background: #fff;
+	border: 1px solid #dfdfdf;
+	height: auto;
+}
+.custom_clear_image_button {
+	display: block;
+	float: left;
+	background: url(../images/delete-image.png) no-repeat left top;
+	height: 16px;
+	width: 16px;
+	text-indent: -9999px;
+	position: absolute;
+	top: -8px;
+	right: -10px;
+}
+#prodigystudio-meta-settings .form-table p, #prodigystudio-meta-settings .description-meta {
+	display: block;
+	margin: 0px;
+	margin-left: 172px;
+	margin-top: 5px;
+	clear: both;
+	font: 13px "Open Sans", sans-serif;
+	color: #666;
+}
+.clearboth { clear:both;}
+.previewicon {font-size:20px;padding-left:20px;}
+.megamenu-options-togle {width:190px;}
+.megamenu-options-togle span {font-size:11px;}
+.megamenu-options-togle span:after {
+	font-family: "fontello";
+	content: '\ea05';
+	float:right;
+}
+.megamenu-options-togle.active span:after {
+content: '\ea08';
+}
+.mega-menu-options-panel {display:none;}
+.post-type-sidebar #edit-slug-box {display:none;}
+

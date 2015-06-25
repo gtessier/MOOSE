@@ -1,0 +1,301 @@
+/* --------------------------------------------------------------------------
+ * Prodigystudio  : Maleo - Multipurpose HTML Template
+ *  
+ * file           : Color Theme
+ * Desc           : Maleo Framework - Theme Switcher
+ * Version        : 1.1
+ * Date           : 08/12/2014
+ * Author         : Prodigystudio - team
+ * Author URI     : http://prodigystudio.net
+ * Email          : Hello@prodigystudio.net
+ *
+ * Prodigy Studio. Copyright 2014. All Rights Reserved.
+ * -------------------------------------------------------------------------- */
+::selection {
+  background: #f1c40f;
+}
+
+::-moz-selection {
+  background: #f1c40f;
+}
+
+.rowfull .left-bg, header .logo-content, .header2 .header-content:before, .header3 .header-content:before, .header3 .client-content .login, .header3 .client-content .signup:hover, .header2 .logo-content .logo img, .header3 .logo-content .logo img, .is-sticky .header2:before, .is-sticky .header3:before, .is-sticky .logo-content .logo img, .button, .slider-button.button, #service, #service .sub-service span, .heading-line, .inline-heading-line span, .tag-cloud a:hover, a.reply, a.reply:visited, h4.resp-accordion.resp-tab-active,
+h4.resp-accordion.resp-tab-active:hover,
+.resp-tabs-list li.resp-tab-active,
+.resp-tabs-list li.resp-tab-active:hover, .label, .blog-info, footer .get-connect, footer .scroll-top:hover, .progress-bar .progress-content, .progress-bar.thin .progress-content .progress-meter, .mo-caption .content .preview,
+.mo-caption .content .permalink, kbd, .highlight, .panel.fold, .pricing-table .title, .pricing-table.style2 .title, .pricing-table.style4 .price, .testi.style2 .name, .testi.style2 .name:before, .testi.style3 .testi-container blockquote:before, .testi.style4 .name span, table.table thead, .dropcap.circle,
+.dropcap.square, .promo-box, .mejs-controls .mejs-time-rail .mejs-time-current,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,.wp-caption p.wp-caption-text,.wpcf7-submit,
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt,
+.woocommerce span.onsale, 
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce table.shop_table thead,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+  background-color: #f1c40f;
+}
+
+.slider-button.button:hover, .mo-caption .content .preview:hover,
+.mo-caption .content .permalink:hover, .button.button-border:hover,
+.button.button-border:focus,
+.button.button-border:active,
+.button.button-border.active, .pricing-table.style2 .price, .button:hover,
+.button:focus,
+.button:active,
+.button.active,
+.woocommerce #respond input#submit:hover, 
+.woocommerce a.button:hover, 
+.woocommerce button.button:hover, 
+.woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover {
+  background-color: #f5d657;
+}
+
+header .menu-trigger i, header .search-content .toggle-search, .header-info1 li.phone-info,
+.header-info1 li.toggle-search, .header2 .header-info li i, .header3 .client-content .login:hover, .header3 .toggle-search, .button.link, #promo-home h2, .maleo-color, .breadcrumb .active, .about-team h3, .about-team span, .about-team .social-wrapper .social-feature li a:hover, #twitter-wrapper #twitter-feed .twitter-text a, #twitter-wrapper #twitter-feed .twitter-text .at, .service-value .text-currency, .date-post-info, .blog-media .carousel-nav .carousel-prev:hover, .blog-media .carousel-nav .carousel-next:hover, .blog-author ul.social-icon, .blog-author ul.social-icon li i, h4.resp-accordion:hover,
+h4.resp-accordion:focus,
+.resp-tabs-list li:hover,
+.resp-tabs-list li:focus, .maleo-index-tab h4.resp-accordion:hover h6, .maleo-index-tab h4.resp-accordion.resp-tab-active h6,
+.maleo-index-tab .resp-tabs-list li:hover h6,
+.maleo-index-tab .resp-tabs-list li.resp-tab-active h6, .maleo-index-tab h4.resp-accordion:hover, .maleo-index-tab h4.resp-accordion.resp-tab-active,
+.maleo-index-tab .resp-tabs-list li:hover,
+.maleo-index-tab .resp-tabs-list li.resp-tab-active,
+.maleo-index-tab h4.resp-accordion:focus h6,
+.maleo-index-tab .resp-tabs-list li:focus h6, .mo-menu a.active,
+.mo-menu a.current,
+.mo-menu .current-menu-item > a,
+.mo-menu .current-menu-parent > a,
+.mo-menu a.current:hover,
+.mo-menu a.current:focus,
+.mo-menu a.current:active, p.blog-date a,
+p.blog-date a:visited, .post-type, .button.button-border, .svg-icon .icon-wrapper i,
+.svg-icon.style1 .icon-wrapper i,
+.svg-icon.style2 .icon-wrapper i,
+.no-shape i, .pricing-table.style4 .title, .promo-box .promo-button i, .pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.woocommerce ul.products li.product .price,
+.woocommerce div.product p.price, 
+.woocommerce div.product span.price,
+.woocommerce .star-rating:before, .woocommerce-page .star-rating:before,
+.woocommerce .star-rating, 
+.woocommerce-page .star-rating {
+  color: #f1c40f;
+}
+
+a:hover, .button.link:hover, .button.link:focus, .button.link:hover i, .button.link:focus i, #slider-wrapper .tp-leftarrow.default:hover, #slider-wrapper .tp-leftarrow.default:focus,
+#slider-wrapper .tp-rightarrow.default:hover,
+#slider-wrapper .tp-rightarrow.default:focus, #twitter-wrapper #twitter-feed .twitter-text a:hover, #twitter-wrapper #twitter-feed .twitter-text a:focus, #twitter-wrapper #twitter-feed .twitter-text .at:hover, #twitter-wrapper #twitter-feed .twitter-text .at:focus, .mo-menu a:hover, .mo-menu a:focus, .mo-menu a:active, .mo-menu a.highlighted, .mo-menu ul a:hover,
+.mo-menu ul a:focus,
+.mo-menu ul a:active,
+.mo-menu ul a.highlighted, .mo-menu a:hover span.sub-arrow:after,
+.mo-menu a:focus span.sub-arrow:after,
+.mo-menu a:active span.sub-arrow:after,
+.mo-menu a.highlighted span.sub-arrow:after, .mo-menu span.scroll-up:hover span.scroll-up-arrow:after, .mo-menu span.scroll-down:hover span.scroll-down-arrow:after, #portfolio-filter ul li a.selected, #portfolio-filter ul li a:hover, #portfolio-filter ul li a:focus, .blog-media2 .video-play:hover, #process-chart .button:hover, .post-info a:hover,
+.post-info a:focus, .pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus,
+.woocommerce nav.woocommerce-pagination ul li span.current, 
+.woocommerce nav.woocommerce-pagination ul li a:hover, 
+.woocommerce nav.woocommerce-pagination ul li a:focus, 
+.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul li a:hover, 
+.woocommerce #content nav.woocommerce-pagination ul li a:focus, 
+.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul li a:hover, 
+.woocommerce-page nav.woocommerce-pagination ul li a:focus, 
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, 
+.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
+.woocommerce ul.products li.product .price del,
+.woocommerce p.stars a:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover {
+  color: #f5d657;
+}
+
+.header-info1 li.phone-info,
+.header-info1 li.toggle-search {
+  border: 2px solid #f1c40f;
+}
+
+.header3 .toggle-search {
+  border: 2px solid #f1c40f;
+}
+.header3 .input-group .toggle-search {
+  border: none !important;
+}
+
+.tp-bannertimer {
+  background: rgba(241, 196, 15, 0.2);
+}
+
+#service .sub-service {
+  background: #f5d657 !important;
+}
+
+ul.service-list li,
+ul.client-list li {
+  background-image: linear-gradient(to bottom, #f5d657 100%, #f5d657 100%);
+}
+
+ul.service-list li:before,
+ul.client-list li:before {
+  background-image: linear-gradient(to right, #f5d657 100%, #f5d657 100%);
+}
+
+.date-post-info, .image-post-info {
+  border: 2px solid #f1c40f;
+}
+
+.tag-cloud a:hover {
+  border: 1px solid #f1c40f;
+}
+
+ul.contact-form .form-control:focus,
+ul.comment-form .form-control:focus,
+.login-panel .form-control:focus,
+.wpcf7-form-control:focus,
+.woocommerce .quantity .qty:focus {
+  border-color: #f1c40f;
+  -webkit-box-shadow: inset 0 1px 1px rgba(241, 196, 15, 0.075), 0 0 8px rgba(241, 196, 15, 0.6);
+  box-shadow: inset 0 1px 1px rgba(241, 196, 15, 0.075), 0 0 8px rgba(241, 196, 15, 0.6);
+}
+
+h4.resp-accordion.resp-tab-active,
+h4.resp-accordion.resp-tab-active:hover,
+.resp-tabs-list li.resp-tab-active,
+.resp-tabs-list li.resp-tab-active:hover,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+  border: 1px solid #f1c40f;
+}
+
+.maleo-index-tab h4.resp-accordion:hover .svg-icon .svg-path,
+.maleo-index-tab h4.resp-accordion:hover .svg-icon.style1 .svg-path, .maleo-index-tab h4.resp-accordion.resp-tab-active .svg-icon .svg-path,
+.maleo-index-tab h4.resp-accordion.resp-tab-active .svg-icon.style1 .svg-path,
+.maleo-index-tab .resp-tabs-list li:hover .svg-icon .svg-path,
+.maleo-index-tab .resp-tabs-list li:hover .svg-icon.style1 .svg-path,
+.maleo-index-tab .resp-tabs-list li.resp-tab-active .svg-icon .svg-path,
+.maleo-index-tab .resp-tabs-list li.resp-tab-active .svg-icon.style1 .svg-path {
+  stroke: #f1c40f !important;
+}
+.maleo-index-tab h4.resp-accordion:hover .svg-icon .svg-path,
+.maleo-index-tab h4.resp-accordion:hover .svg-icon.style1 .svg-path,
+.maleo-index-tab .resp-tabs-list li:hover .svg-icon .svg-path,
+.maleo-index-tab .resp-tabs-list li:hover .svg-icon.style1 .svg-path {
+  stroke: #f1c40f !important;
+}
+.maleo-index-tab .resp-tabs-list li.resp-tab-active,
+.maleo-index-tab .resp-tabs-list li.resp-tab-active:hover {
+  background: none !important;
+}
+.maleo-index-tab .resp-tabs-list li.resp-tab-active {
+  border: none !important;
+}
+
+.maleo-tab h4.resp-accordion.resp-tab-active,
+.maleo-tab h4.resp-accordion.resp-tab-active:hover,
+.maleo-tab .resp-tabs-list li.resp-tab-active,
+.maleo-tab .resp-tabs-list li.resp-tab-active:hover {
+  border: none !important;
+}
+.maleo-tab .resp-tabs-list li.resp-tab-active:hover {
+  background-color: #fff;
+}
+
+@media screen and (max-width: 700px) {
+  .mo-menu .mega-menu-list li a:hover,
+  .mo-menu .mega-menu-list li a:focus,
+  .mo-menu .mega-menu-list li a:active {
+    color: #f5d657 !important;
+  }
+}
+#portfolio-filter ul li a.selected, #portfolio-filter ul li a:hover, #portfolio-filter ul li a:focus {
+  border-color: #f5d657;
+}
+
+.mo-caption .content .preview,
+.mo-caption .content .permalink {
+  opacity: 1;
+}
+
+.button.button-border {
+  border-color: #f1c40f;
+}
+
+.button.button-border:hover,
+.button.button-border:focus,
+.button.button-border:active,
+.button.button-border.active {
+  border: 2px solid #f5d657;
+}
+
+.svg-icon.style3 .svg-path {
+  fill: #f1c40f;
+}
+
+.panel.fold:before {
+  border-color: white white #927608 #927608;
+}
+
+.testi.style2 .name:before {
+  border-left: 8px solid #f1c40f;
+  border-top: 8px solid #f1c40f;
+}
+
+.testi.style3 .testi-container blockquote:before {
+  -webkit-box-shadow: 0px 0px 0px 3px #f1c40f;
+  -moz-box-shadow: 0px 0px 0px 3px #f1c40f;
+  box-shadow: 0px 0px 0px 3px #f1c40f;
+}
+
+.testi.style6 .name h4 {
+  background-color: rgba(241, 196, 15, 0.7);
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.woocommerce nav.woocommerce-pagination ul li span.current, 
+.woocommerce nav.woocommerce-pagination ul li a:hover, 
+.woocommerce nav.woocommerce-pagination ul li a:focus, 
+.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul li a:hover, 
+.woocommerce #content nav.woocommerce-pagination ul li a:focus, 
+.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul li a:hover, 
+.woocommerce-page nav.woocommerce-pagination ul li a:focus, 
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, 
+.woocommerce-page #content nav.woocommerce-pagination ul li a:focus {
+  border-color: #f1c40f;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  border-color: #f5d657;
+}
+
+/* Tablet Potrait */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  ul.service-list li:before {
+    background-image: linear-gradient(to right, #f5d657 100%, #f5d657 100%) !important;
+  }
+}

@@ -1,0 +1,286 @@
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+        .container                                  { width: 768px; }
+        .container .column,
+        .container .columns                         { margin-left: 10px; margin-right: 10px;  }
+        .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 10px; }
+        .column.omega, .columns.omega               { margin-right: 0; margin-left: 10px; }
+        .alpha.omega                                { margin-left: 0; margin-right: 0; }
+
+        .container .one.column,
+        .container .one.columns                     { width: 28px; }
+        .container .two.columns                     { width: 76px; }
+        .container .three.columns                   { width: 124px; }
+        .container .four.columns                    { width: 172px; }
+        .container .five.columns                    { width: 220px; }
+        .container .six.columns                     { width: 268px; }
+        .container .seven.columns                   { width: 316px; }
+        .container .eight.columns                   { width: 364px; }
+        .container .nine.columns                    { width: 412px; }
+        .container .ten.columns                     { width: 460px; }
+        .container .eleven.columns                  { width: 508px; }
+        .container .twelve.columns                  { width: 556px; }
+        .container .thirteen.columns                { width: 604px; }
+        .container .fourteen.columns                { width: 652px; }
+        .container .fifteen.columns                 { width: 700px; }
+        .container .sixteen.columns                 { width: 748px; }
+
+        .container .one-third.column                { width: 236px; }
+        .container .two-thirds.column               { width: 492px; }
+
+        /* Offsets */
+        .container .offset-by-one                   { padding-left: 48px; }
+        .container .offset-by-two                   { padding-left: 96px; }
+        .container .offset-by-three                 { padding-left: 144px; }
+        .container .offset-by-four                  { padding-left: 192px; }
+        .container .offset-by-five                  { padding-left: 240px; }
+        .container .offset-by-six                   { padding-left: 288px; }
+        .container .offset-by-seven                 { padding-left: 336px; }
+        .container .offset-by-eight                 { padding-left: 384px; }
+        .container .offset-by-nine                  { padding-left: 432px; }
+        .container .offset-by-ten                   { padding-left: 480px; }
+        .container .offset-by-eleven                { padding-left: 528px; }
+        .container .offset-by-twelve                { padding-left: 576px; }
+        .container .offset-by-thirteen              { padding-left: 624px; }
+        .container .offset-by-fourteen              { padding-left: 672px; }
+        .container .offset-by-fifteen               { padding-left: 720px; }
+    }
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {
+        .container { width: 300px; }
+        .container .columns,
+        .container .column { margin: 0; }
+
+        .container .one.column,
+        .container .one.columns,
+        .container .two.columns,
+        .container .three.columns,
+        .container .four.columns,
+        .container .five.columns,
+        .container .six.columns,
+        .container .seven.columns,
+        .container .eight.columns,
+        .container .nine.columns,
+        .container .ten.columns,
+        .container .eleven.columns,
+        .container .twelve.columns,
+        .container .thirteen.columns,
+        .container .fourteen.columns,
+        .container .fifteen.columns,
+        .container .sixteen.columns,
+        .container .one-third.column,
+        .container .two-thirds.column  { width: 300px; }
+
+        /* Offsets */
+        .container .offset-by-one,
+        .container .offset-by-two,
+        .container .offset-by-three,
+        .container .offset-by-four,
+        .container .offset-by-five,
+        .container .offset-by-six,
+        .container .offset-by-seven,
+        .container .offset-by-eight,
+        .container .offset-by-nine,
+        .container .offset-by-ten,
+        .container .offset-by-eleven,
+        .container .offset-by-twelve,
+        .container .offset-by-thirteen,
+        .container .offset-by-fourteen,
+        .container .offset-by-fifteen { padding-left: 0; }
+
+    }
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        .container { width: 420px; }
+        .container .columns,
+        .container .column { margin: 0; }
+
+        .container .one.column,
+        .container .one.columns,
+        .container .two.columns,
+        .container .three.columns,
+        .container .four.columns,
+        .container .five.columns,
+        .container .six.columns,
+        .container .seven.columns,
+        .container .eight.columns,
+        .container .nine.columns,
+        .container .ten.columns,
+        .container .eleven.columns,
+        .container .twelve.columns,
+        .container .thirteen.columns,
+        .container .fourteen.columns,
+        .container .fifteen.columns,
+        .container .sixteen.columns,
+        .container .one-third.column,
+        .container .two-thirds.column { width: 420px; }
+    }
+
+/* #Custom Rules
+================================================== */
+@media only screen and (max-width: 959px) {
+.slide-content h1, .slide-content h2 {font-size: 26px;}
+.slide-model img {width: 95%;}
+.showcase-model img {width: 100%;}
+.showcase-content h1, .section-title h1 {font-size: 50px; line-height: 40px;}
+.showcase-content h1 span, .section-title h1 span {font-size: 27px;}
+.title-bullet {margin: 25px 0;}
+.feature-selector-frame img {width: 100%;}
+.team-member-image img {width: 100%;}
+.team-member-desc h5 {font-size: 15px;}
+.quote-slide h3, .price-table-header h3 {font-size: 17px;}
+.feature-icon-box h3 {font-size: 16px;}
+.tweet {width: 100%;}
+.carousel-slide-bg {width: 105%;}
+.slider, .testimonials, .zoomer-bg, .counters, .call-to-action {background-attachment: scroll;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.showcase-model {padding: 105px 0 0;}
+.screenshot {width: 172px; height: 172px;}
+.screenshot-zoom {width: 172px; height: 172px; line-height: 172px !important;}
+.quote-slide p {width: 72%;}
+.feature-selector-mask {top: 198px; left: 171px; width: 142px; height: 250px; }
+.team-member-image {height: 157px;}
+.four.columns .team-member-image {height: 112px;}
+.counter h5 {padding: 23px 12px; font-size: 14px;}
+.portfolio-item-image > img {height: 270px; width: auto;}
+.portfolio-item-desc {font-size: 15px;}
+.slide-content {left: 20px; position: relative; width: 330px;}
+.slide-content .button {padding: 12px 20px;}
+.slide-model {right: 20px;}
+}
+
+@media only screen and (max-width: 767px) {
+.nav {float: none; height: auto; width: 100%; background: #424242; display: table;}
+.menu li {float: none; display: block; line-height: 35px; text-align: center; border-bottom: 1px dotted #848484; padding: 0px 10px 10px; margin: 10px 40px 0;}
+.menu li:last-child {border-bottom: 0; padding-bottom: 0; margin-bottom: -8px;}
+.header.stuck .menu li {line-height: 35px; padding: 0 10px 10px;}
+.logo {float: left;}
+.logo-area {right: 0;}
+.owl-buttons i {display: none;}
+.mobile-menu {display: block !important;}
+.menu {display: none;}
+.button-container {display: table; margin: 0 auto;}
+.slide-content {float: none; width: 100%; height: auto; padding-top: 160px;}
+.slide-content h1, .slide-content h2 {text-align: center; margin: 0 auto 8px;}
+.slide-content p {text-align: center;}
+.slide-model {float: none; width: 100%; height: auto; min-height: 500px;}
+.slider {height: auto;}
+.feature-icon-box {margin-bottom: 40px !important;}
+.zoomer-frame {background-size: 100%; height: 195px;}
+.zoomer-image {padding-top: 32px;}
+.zoomer-image img {width: 346px;}
+.zoomer-bg {height: 130px;}
+.magnifier {left: 419px; top: 1894px;}
+.showcase-model img {width: auto; max-width: 100%; display: table; margin-left: auto; margin-right: auto; float: none !important;}
+.showcase.second .showcase-model {margin-top: 0;}
+.showcase.second .showcase-content {margin-top: 0;}
+.screenshot {margin: 0 auto 50px;}
+.shots {padding-bottom: 40px;}
+.lightbox img {max-width: 360px; height: auto;}
+.quote-slide h3 {float: none; display: block; width: 100%; margin-left: 0;}
+.client-avatar {float: none; margin-left: auto; margin-right: auto;}
+.quote-slide p {width: 100%; text-align: center; margin-left: 0;}
+.quote-slide {display: table; margin-bottom: 50px;}
+.quote-slider-controls {display: table; margin: 0 auto; float: none;}
+.feature-selectors {height: auto;}
+.feature-selector-mask {width: 164px; top: 136px; left: 197px; height: 315px;}
+.feature-selector-buttons li:last-child {margin-bottom: 0;}
+.team-member, .price-table {margin-bottom: 40px;}
+.four.columns .team-member-image {height: auto;}
+.team, .pricing {padding-bottom: 40px;}
+.price-table {margin-top: 0;}
+.carousel-frame {height: 300px;}
+.subscribe-form .textfield {width: 380px;}
+.magnifier {display: none;}
+.tablet-magnifier {padding: 0 !important; height: 195px;}
+.zoomer {position: relative;}
+.counter {width: 50% !important; margin: 15px 0 !important;}
+.clients .four.columns {margin: 10px 0;}
+
+/* 2015-02-10 */
+.menu > li > .sub-menu {position: relative; top: 2px; border-top: 1px dotted #888; background: rgba(0,0,0,0.2); margin-bottom: 0;}
+.menu > li > .sub-menu > li {margin-top: 0; margin-left: 15px; margin-right: 15px; border: 0;}
+.header.stuck .menu > li > .sub-menu {top: 8px; margin-bottom: 6px;}
+.menu-item-has-children {padding: 0 0 10px 0 !important;}
+}
+
+@media only screen and (max-width: 479px) {
+.slide-content h1, .slide-content h2 {font-size: 22px; letter-spacing: -1.5px;}
+.button-container a {margin-right: auto; margin-left: auto; display: table;}
+.slide-model {min-height: 400px;}
+.zoomer-frame {margin-top: 0;}
+.zoomer-image {padding-top: 79px;}
+.zoomer-image img {width: 246px;}
+.zoomer-bg {height: 100px;}
+.magnifier {left: 229px; top: 1874px; display: none !important;}
+.showcase-content h1, .section-title h1 {font-size: 41px;}
+.showcase-content h1 span, .section-title h1 span {font-size: 23px;}
+.showcase.second .showcase-content h1 {padding-top: 0;}
+.showcase.second .showcase-content {margin-top: 0;}
+.showcase.second .showcase-model {margin-top: 0;}
+.lightbox img {max-width: 240px;}
+.feature-selector-buttons .selector-body {padding: 0 0 0 20px;}
+.feature-selector-mask {left: 141px; width: 117px; top: 119px;}
+.feature-selector-frame {height: 450px;}
+.counter h5 {padding: 15px; line-height: 40px;}
+.carousel-model {background-size: 68% auto !important;}
+.carousel-frame {height: 220px;}
+.carousel-slide {height: auto;}
+.subscribe-form .textfield {width: 274px;}
+.subscribe-form h2 {font-size: 23px;}
+.portfolio .filter a {padding: 5px 7px;}
+.tablet-magnifier {height: 155px;}
+.zoomer {top: -40px;}
+.quote-slide h3 {font-size: 15px; line-height: 24px;}
+.subscribe-form h2, .contact-form h2 {font-size: 24px;}
+.wpcf7-form input, .wpcf7-form textarea {width: 270px;}
+.wpcf7-form input[type="submit"] {width: auto;}
+span.wpcf7-not-valid-tip {width: 271px;}
+div.wpcf7-response-output {width: 254px;}
+.wpcf7-form > p {width: 297px !important;}
+.wpcf7-response-output {font-size: 14px !important;}
+#owl-demo {bottom: -10px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,113 @@
+
+/* --- WordPress Default Widgets and Custom Widgets --- */
+
+aside .input-group .form-control {
+	font-size:22px;
+	height:40px;
+}
+
+aside .input-group .toggle-search {
+	height:40px;
+	line-height:40px;
+}
+aside .input-group .toggle-search i {
+	font-size:20px;
+}
+
+.widget_nav_menu ul, 
+.widget_categories ul, 
+.widget_links ul, 
+.widget_archive ul, 
+.widget_meta ul,
+.widget_pages ul,
+.widget_recent_entries ul,
+ul.popular-list,
+ul.popular-list li:last-child,
+ul.recent-comments-list,
+ul.recent-comments-list li:last-child,
+ul.popular-list,
+ul.popular-list li:last-child
+
+{list-style: none; margin-left:0; margin-bottom:0;}
+
+.widget_nav_menu ul li:before, 
+.widget_categories ul li:before, 
+.widget_links ul li:before, 
+.widget_archive ul li:before, 
+.widget_meta ul li:before,
+.widget_pages ul li:before,
+.widget_recent_entries ul li:before
+{font-family:'list'; background:none; width:auto; height:auto; font-style:normal; color:#cacaca; content:"\e2116"; font-size:14px; margin-right:8px; position:relative; top:0px;}
+
+/*.widget_nav_menu ul li a, 
+.widget_nav_menu ul li a:visited,
+.widget_categories ul li a, 
+.widget_categories ul li a:visited, 
+.widget_links ul li a, 
+.widget_links ul li a:visited,
+.widget_archive ul li a, 
+.widget_archive ul li a:visited,
+.widget_meta ul li a,
+.widget_meta ul li a:visited,
+.widget_pages ul li a,
+.widget_recent_entries ul li a:visited
+{color:#b3b3b3; text-decoration:none;}
+
+.widget_nav_menu ul li a:hover, 
+.widget_categories ul li a:hover, 
+.widget_links ul li a:hover, 
+.widget_archive ul li a:hover, 
+.widget_meta ul li a:hover,
+.widget_pages ul li a:hover
+{color:#8c8c8c; text-decoration:none;}*/
+
+.recentcomments {
+	list-style:inside;
+	margin-left:-15px;
+}
+.recentcomments a, 
+.comment-title a {
+	word-wrap: break-word;
+	word-break: break-word;
+	-webkit-hyphens: auto;
+   -moz-hyphens: auto;
+   hyphens: auto;
+}
+
+/* Widget Tag Cloud - prodigystudio */
+
+.tagcloud {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	width: 100%;
+	float: left;
+	margin: 7px 0;
+}
+
+.widget_tag_cloud a,.widget_tag_cloud a:visited {
+	font-size:11px !important;
+	float: left;
+	display: block;
+	color: #a8a8a8;
+	background-color: #fcfcfc;
+	border: solid 1px #e0e0e0;
+	text-decoration: none;
+	margin: 0 7px 7px 0;
+	padding: 0px 9px 1px 9px;
+	transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-webkit-transition: all .25s ease-in-out;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.widget_tag_cloud a:hover {
+	display: block;
+	color: #fff;
+	background-color: #36c1c8;
+	border: 1px solid #36c1c8;
+	text-decoration: none;
+	margin: 0 7px 7px 0;
+	padding: 0px 9px 1px 9px;
+}

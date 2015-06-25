@@ -1,0 +1,535 @@
+/* Flaticon */
+[class^="flatico-"], [class*=" flatico-"] {
+  float: left;
+  width: 90px;
+  height: 90px;
+  background-size: 90px 90px;
+}
+
+[class^="flatico-"].small, [class*=" flatico-"].small {
+  width: 60px;
+  height: 60px;
+  background-size: 60px 60px;
+}
+
+[class^="flatico-"].large, [class*=" flatico-"].large {
+  width: 120px;
+  height: 120px;
+  background-size: 120px 120px;
+}
+
+.flatico-arrow {
+  background: url("../img/flat-icon/icon-arrow.png") no-repeat;
+}
+
+.flatico-bag {
+  background: url("../img/flat-icon/icon-bag.png") no-repeat;
+}
+
+.flatico-bag2 {
+  background: url("../img/flat-icon/icon-bag2.png") no-repeat;
+}
+
+.flatico-book {
+  background: url("../img/flat-icon/icon-book.png") no-repeat;
+}
+
+.flatico-calculator {
+  background: url("../img/flat-icon/icon-calculator.png") no-repeat;
+}
+
+.flatico-calendar {
+  background: url("../img/flat-icon/icon-calendar.png") no-repeat;
+}
+
+.flatico-camera {
+  background: url("../img/flat-icon/icon-camera.png") no-repeat;
+}
+
+.flatico-card {
+  background: url("../img/flat-icon/icon-card.png") no-repeat;
+}
+
+.flatico-clock {
+  background: url("../img/flat-icon/icon-clock.png") no-repeat;
+}
+
+.flatico-comment {
+  background: url("../img/flat-icon/icon-comment.png") no-repeat;
+}
+
+.flatico-compas {
+  background: url("../img/flat-icon/icon-compas.png") no-repeat;
+}
+
+.flatico-config {
+  background: url("../img/flat-icon/icon-config.png") no-repeat;
+}
+
+.flatico-console {
+  background: url("../img/flat-icon/icon-console.png") no-repeat;
+}
+
+.flatico-count {
+  background: url("../img/flat-icon/icon-count.png") no-repeat;
+}
+
+.flatico-disk {
+  background: url("../img/flat-icon/icon-disk.png") no-repeat;
+}
+
+.flatico-diskette {
+  background: url("../img/flat-icon/icon-diskette.png") no-repeat;
+}
+
+.flatico-download {
+  background: url("../img/flat-icon/icon-download.png") no-repeat;
+}
+
+.flatico-file {
+  background: url("../img/flat-icon/icon-file.png") no-repeat;
+}
+
+.flatico-film {
+  background: url("../img/flat-icon/icon-film.png") no-repeat;
+}
+
+.flatico-garbage {
+  background: url("../img/flat-icon/icon-garbage.png") no-repeat;
+}
+
+.flatico-graph {
+  background: url("../img/flat-icon/icon-graph.png") no-repeat;
+}
+
+.flatico-letter {
+  background: url("../img/flat-icon/icon-letter.png") no-repeat;
+}
+
+.flatico-lock {
+  background: url("../img/flat-icon/icon-lock.png") no-repeat;
+}
+
+.flatico-love {
+  background: url("../img/flat-icon/icon-love.png") no-repeat;
+}
+
+.flatico-mail {
+  background: url("../img/flat-icon/icon-mail.png") no-repeat;
+}
+
+.flatico-map {
+  background: url("../img/flat-icon/icon-map.png") no-repeat;
+}
+
+.flatico-media {
+  background: url("../img/flat-icon/icon-media.png") no-repeat;
+}
+
+.flatico-money {
+  background: url("../img/flat-icon/icon-money.png") no-repeat;
+}
+
+.flatico-news {
+  background: url("../img/flat-icon/icon-news.png") no-repeat;
+}
+
+.flatico-note {
+  background: url("../img/flat-icon/icon-note.png") no-repeat;
+}
+
+.flatico-notepad {
+  background: url("../img/flat-icon/icon-notepad.png") no-repeat;
+}
+
+.flatico-openmail {
+  background: url("../img/flat-icon/icon-openmail.png") no-repeat;
+}
+
+.flatico-photo {
+  background: url("../img/flat-icon/icon-photo.png") no-repeat;
+}
+
+.flatico-portfolio {
+  background: url("../img/flat-icon/icon-portfolio.png") no-repeat;
+}
+
+.flatico-print {
+  background: url("../img/flat-icon/icon-print.png") no-repeat;
+}
+
+.flatico-responsive {
+  background: url("../img/flat-icon/icon-responsive.png") no-repeat;
+}
+
+.flatico-ribbon {
+  background: url("../img/flat-icon/icon-ribbon.png") no-repeat;
+}
+
+.flatico-safe {
+  background: url("../img/flat-icon/icon-safe.png") no-repeat;
+}
+
+.flatico-shop {
+  background: url("../img/flat-icon/icon-shop.png") no-repeat;
+}
+
+.flatico-statistic {
+  background: url("../img/flat-icon/icon-statistic.png") no-repeat;
+}
+
+.flatico-tablet {
+  background: url("../img/flat-icon/icon-tablet.png") no-repeat;
+}
+
+.flatico-ticket {
+  background: url("../img/flat-icon/icon-ticket.png") no-repeat;
+}
+
+.flatico-truck {
+  background: url("../img/flat-icon/icon-truck.png") no-repeat;
+}
+
+.flatico-tv {
+  background: url("../img/flat-icon/icon-tv.png") no-repeat;
+}
+
+.flatico-ui {
+  background: url("../img/flat-icon/icon-ui.png") no-repeat;
+}
+
+.flatico-upload {
+  background: url("../img/flat-icon/icon-upload.png") no-repeat;
+}
+
+.flatico-upload2 {
+  background: url("../img/flat-icon/icon-upload2.png") no-repeat;
+}
+
+.flatico-wallet {
+  background: url("../img/flat-icon/icon-wallet.png") no-repeat;
+}
+
+.flatico-phone {
+  background: url("../img/flat-icon/icon-phone.png") no-repeat;
+}
+
+.flatico-help {
+  background: url("../img/flat-icon/icon-help.png") no-repeat;
+}
+
+.flatico-check {
+  background: url("../img/flat-icon/icon-check.png") no-repeat;
+}
+
+.flatico-search {
+  background: url("../img/flat-icon/icon-search.png") no-repeat;
+}
+
+.flatico-drop {
+  background: url("../img/flat-icon/icon-drop.png") no-repeat;
+}
+
+.flatico-voicemail {
+  background: url("../img/flat-icon/icon-voicemail.png") no-repeat;
+}
+
+.flatico-phone2 {
+  background: url("../img/flat-icon/icon-phone2.png") no-repeat;
+}
+
+.flatico-culture {
+  background: url("../img/flat-icon/icon-culture.png") no-repeat;
+}
+
+.flatico-user {
+  background: url("../img/flat-icon/icon-user.png") no-repeat;
+}
+
+.flatico-statistic2 {
+  background: url("../img/flat-icon/icon-statistic2.png") no-repeat;
+}
+
+.flatico-map2 {
+  background: url("../img/flat-icon/icon-map2.png") no-repeat;
+}
+
+.flatico-flag {
+  background: url("../img/flat-icon/icon-flag.png") no-repeat;
+}
+
+.flatico-football {
+  background: url("../img/flat-icon/icon-football.png") no-repeat;
+}
+
+.flatico-weather {
+  background: url("../img/flat-icon/icon-weather.png") no-repeat;
+}
+
+.flatico-folder {
+  background: url("../img/flat-icon/icon-folder.png") no-repeat;
+}
+
+.flatico-view {
+  background: url("../img/flat-icon/icon-view.png") no-repeat;
+}
+
+/* Retina Image Styling */
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+  .flatico-arrow {
+    background: url("../img/flat-icon/icon-arrow@2x.png") no-repeat;
+  }
+
+  .flatico-bag {
+    background: url("../img/flat-icon/icon-bag@2x.png") no-repeat;
+  }
+
+  .flatico-bag2 {
+    background: url("../img/flat-icon/icon-bag2@2x.png") no-repeat;
+  }
+
+  .flatico-book {
+    background: url("../img/flat-icon/icon-book@2x.png") no-repeat;
+  }
+
+  .flatico-calculator {
+    background: url("../img/flat-icon/icon-calculator@2x.png") no-repeat;
+  }
+
+  .flatico-calendar {
+    background: url("../img/flat-icon/icon-calendar@2x.png") no-repeat;
+  }
+
+  .flatico-camera {
+    background: url("../img/flat-icon/icon-camera@2x.png") no-repeat;
+  }
+
+  .flatico-card {
+    background: url("../img/flat-icon/icon-card@2x.png") no-repeat;
+  }
+
+  .flatico-clock {
+    background: url("../img/flat-icon/icon-clock@2x.png") no-repeat;
+  }
+
+  .flatico-comment {
+    background: url("../img/flat-icon/icon-comment@2x.png") no-repeat;
+  }
+
+  .flatico-compas {
+    background: url("../img/flat-icon/icon-compas@2x.png") no-repeat;
+  }
+
+  .flatico-config {
+    background: url("../img/flat-icon/icon-config@2x.png") no-repeat;
+  }
+
+  .flatico-console {
+    background: url("../img/flat-icon/icon-console@2x.png") no-repeat;
+  }
+
+  .flatico-count {
+    background: url("../img/flat-icon/icon-count@2x.png") no-repeat;
+  }
+
+  .flatico-disk {
+    background: url("../img/flat-icon/icon-disk@2x.png") no-repeat;
+  }
+
+  .flatico-diskette {
+    background: url("../img/flat-icon/icon-diskette@2x.png") no-repeat;
+  }
+
+  .flatico-download {
+    background: url("../img/flat-icon/icon-download@2x.png") no-repeat;
+  }
+
+  .flatico-file {
+    background: url("../img/flat-icon/icon-file@2x.png") no-repeat;
+  }
+
+  .flatico-film {
+    background: url("../img/flat-icon/icon-film@2x.png") no-repeat;
+  }
+
+  .flatico-garbage {
+    background: url("../img/flat-icon/icon-garbage@2x.png") no-repeat;
+  }
+
+  .flatico-graph {
+    background: url("../img/flat-icon/icon-graph@2x.png") no-repeat;
+  }
+
+  .flatico-letter {
+    background: url("../img/flat-icon/icon-letter@2x.png") no-repeat;
+  }
+
+  .flatico-lock {
+    background: url("../img/flat-icon/icon-lock@2x.png") no-repeat;
+  }
+
+  .flatico-love {
+    background: url("../img/flat-icon/icon-love@2x.png") no-repeat;
+  }
+
+  .flatico-mail {
+    background: url("../img/flat-icon/icon-mail@2x.png") no-repeat;
+  }
+
+  .flatico-map {
+    background: url("../img/flat-icon/icon-map@2x.png") no-repeat;
+  }
+
+  .flatico-media {
+    background: url("../img/flat-icon/icon-media@2x.png") no-repeat;
+  }
+
+  .flatico-money {
+    background: url("../img/flat-icon/icon-money@2x.png") no-repeat;
+  }
+
+  .flatico-news {
+    background: url("../img/flat-icon/icon-news@2x.png") no-repeat;
+  }
+
+  .flatico-note {
+    background: url("../img/flat-icon/icon-note@2x.png") no-repeat;
+  }
+
+  .flatico-notepad {
+    background: url("../img/flat-icon/icon-notepad@2x.png") no-repeat;
+  }
+
+  .flatico-openmail {
+    background: url("../img/flat-icon/icon-openmail@2x.png") no-repeat;
+  }
+
+  .flatico-photo {
+    background: url("../img/flat-icon/icon-photo@2x.png") no-repeat;
+  }
+
+  .flatico-portfolio {
+    background: url("../img/flat-icon/icon-portfolio@2x.png") no-repeat;
+  }
+
+  .flatico-print {
+    background: url("../img/flat-icon/icon-print@2x.png") no-repeat;
+  }
+
+  .flatico-responsive {
+    background: url("../img/flat-icon/icon-responsive@2x.png") no-repeat;
+  }
+
+  .flatico-ribbon {
+    background: url("../img/flat-icon/icon-ribbon@2x.png") no-repeat;
+  }
+
+  .flatico-safe {
+    background: url("../img/flat-icon/icon-safe@2x.png") no-repeat;
+  }
+
+  .flatico-shop {
+    background: url("../img/flat-icon/icon-shop@2x.png") no-repeat;
+  }
+
+  .flatico-statistic {
+    background: url("../img/flat-icon/icon-statistic@2x.png") no-repeat;
+  }
+
+  .flatico-tablet {
+    background: url("../img/flat-icon/icon-tablet@2x.png") no-repeat;
+  }
+
+  .flatico-ticket {
+    background: url("../img/flat-icon/icon-ticket@2x.png") no-repeat;
+  }
+
+  .flatico-truck {
+    background: url("../img/flat-icon/icon-truck@2x.png") no-repeat;
+  }
+
+  .flatico-tv {
+    background: url("../img/flat-icon/icon-tv@2x.png") no-repeat;
+  }
+
+  .flatico-ui {
+    background: url("../img/flat-icon/icon-ui@2x.png") no-repeat;
+  }
+
+  .flatico-upload {
+    background: url("../img/flat-icon/icon-upload@2x.png") no-repeat;
+  }
+
+  .flatico-upload2 {
+    background: url("../img/flat-icon/icon-upload2@2x.png") no-repeat;
+  }
+
+  .flatico-wallet {
+    background: url("../img/flat-icon/icon-wallet@2x.png") no-repeat;
+  }
+
+  .flatico-phone {
+    background: url("../img/flat-icon/icon-phone@2x.png") no-repeat;
+  }
+
+  .flatico-help {
+    background: url("../img/flat-icon/icon-help@2x.png") no-repeat;
+  }
+
+  .flatico-check {
+    background: url("../img/flat-icon/icon-check@2x.png") no-repeat;
+  }
+
+  .flatico-search {
+    background: url("../img/flat-icon/icon-search@2x.png") no-repeat;
+  }
+
+  .flatico-drop {
+    background: url("../img/flat-icon/icon-drop@2x.png") no-repeat;
+  }
+
+  .flatico-voicemail {
+    background: url("../img/flat-icon/icon-voicemail@2x.png") no-repeat;
+  }
+
+  .flatico-phone2 {
+    background: url("../img/flat-icon/icon-phone2@2x.png") no-repeat;
+  }
+
+  .flatico-culture {
+    background: url("../img/flat-icon/icon-culture@2x.png") no-repeat;
+  }
+
+  .flatico-user {
+    background: url("../img/flat-icon/icon-user@2x.png") no-repeat;
+  }
+
+  .flatico-statistic2 {
+    background: url("../img/flat-icon/icon-statistic2@2x.png") no-repeat;
+  }
+
+  .flatico-map2 {
+    background: url("../img/flat-icon/icon-map2@2x.png") no-repeat;
+  }
+
+  .flatico-flag {
+    background: url("../img/flat-icon/icon-flag@2x.png") no-repeat;
+  }
+
+  .flatico-football {
+    background: url("../img/flat-icon/icon-football@2x.png") no-repeat;
+  }
+
+  .flatico-weather {
+    background: url("../img/flat-icon/icon-weather@2x.png") no-repeat;
+  }
+
+  .flatico-folder {
+    background: url("../img/flat-icon/icon-folder@2x.png") no-repeat;
+  }
+
+  .flatico-view {
+    background: url("../img/flat-icon/icon-view@2x.png") no-repeat;
+  }
+}
+/* IE8 Fix */

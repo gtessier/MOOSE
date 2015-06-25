@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'WebHostingHub-Glyphs';
+    src: url('font/webhostinghub-glyphs.eot');
+    src: url('font/webhostinghub-glyphs.eot?#iefix') format('embedded-opentype'),
+         url('font/webhostinghub-glyphs.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    -moz-font-feature-settings: "calt=0,liga=0";
+}
+.mce-ico.mce-i-ps-style,
+.mce-ico.mce-i-ps-button,
+.mce-ico.mce-i-ps-youtube,
+.mce-ico.mce-i-ps-vimeo,
+.mce-ico.mce-i-ps-map,
+.mce-ico.mce-i-ps-lists,
+.mce-ico.mce-i-ps-icon {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-family: 'WebHostingHub-Glyphs';
+    font-style: normal;
+    height: auto;
+    width: auto;
+}
+.mce-ico.mce-i-ps-vimeo:before {content:'\f79f'}
+.mce-ico.mce-i-ps-style:before{content:'\f743'}
+.mce-ico.mce-i-ps-button:before{content:'\f0dd'}
+.mce-ico.mce-i-ps-youtube:before{content:'\f142'}
+.mce-ico.mce-i-ps-map:before{content:'\f209'}
+.mce-ico.mce-i-ps-icon:before{content:'\f382'}
+.mce-ico.mce-i-ps-lists:before{content:'\f111'}
+
+
